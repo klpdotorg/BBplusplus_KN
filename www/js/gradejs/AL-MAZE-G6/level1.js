@@ -6,7 +6,7 @@ Game.AL_MAZE_G6level1.prototype =
 
     init: function () {
         _this = this;
-        _this.languageSelected = "KAN";//"HIN"
+        _this.languageSelected = "KAN";//"kan"
 
         if (_this.languageSelected == null
             || _this.languageSelected == " "
